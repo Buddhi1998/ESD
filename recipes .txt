@@ -10,4 +10,6 @@ pasta
 rice
 chicken fry
 
+beans
+pizza
 
